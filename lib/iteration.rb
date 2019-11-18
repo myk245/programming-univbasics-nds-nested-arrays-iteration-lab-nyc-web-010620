@@ -1,4 +1,5 @@
 def join_ingredients(src)
+  join_ingredients(array_1) = [
     puts "I love" "array_1[0][0]" "and" "array_1[0][1]" "on my pizza",
     puts "I love" "array_1[1][0]" "and" "array_1[1][1]" "on my pizza",
     puts "I love" "array_1[2][0]" "and" "array_1[2][1]" "on my pizza"
