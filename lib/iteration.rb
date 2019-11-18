@@ -1,5 +1,6 @@
 def join_ingredients(src)
   join_ingredients(array_1) = [
+    return 
     "I love" array_1[0][0] "and" array_1[0][1] "on my pizza",
     "I love" array_1[1][0] "and" array_1[1][1] "on my pizza",
     "I love" array_1[2][0] "and" array_1[2][1] "on my pizza"
